@@ -22,3 +22,11 @@ and so the folder I have used is available at the following link:
 https://1drv.ms/u/s!Agrx7FPGiUW2grQ75S1JOz2FsZw1MA
 
 Please download this folder as it is the only way to ensure results will be similar to my tests.
+
+In order to obtain the most optimal results, use these values:
+- Learning rate: 0.01
+- Epochs: 15
+- Batch Size: 64
+- Optimiser: SGD
+- Weight Decay: 0.001
+- Dropout - 0.5
